@@ -2,7 +2,7 @@
 
 Site de portfólio pessoal desenvolvido para **Amanda Vilalba**, SDR Pleno especialista em prospecção B2B/B2C, qualificação de leads e CRM. Projeto construído com HTML, CSS e JavaScript puros — sem frameworks, sem dependências de build.
 
-🔗 **[amandavilalba.com](https://amandavilalba.com)**
+🔗 **[amandavilalba.com](https://mauricionrdev.github.io/amanda-vilalba-portfolio/)**
 
 ---
 
