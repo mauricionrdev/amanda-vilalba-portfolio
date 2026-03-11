@@ -12,6 +12,25 @@ Landing page de portfólio com foco em performance, acessibilidade e SEO. O desi
 
 ---
 
+## Screenshots
+
+### Hero — Light Mode
+![Hero Light Mode](assets/screenshot-hero-light.png)
+
+### Hero — Dark Mode
+![Hero Dark Mode](assets/screenshot-hero-dark.png)
+
+### Seções — Sobre, Pilares e Habilidades
+![Seções](assets/screenshot-sections.png)
+
+### Experiência Profissional e Resultados
+![Experiência e Resultados](assets/screenshot-experience.png)
+
+### Responsivo — Mobile
+<img src="assets/screenshot-mobile.png" alt="Mobile" width="320" />
+
+---
+
 ## Funcionalidades
 
 - **Dark / Light Mode** com persistência via `localStorage` e detecção automática por `prefers-color-scheme`
